@@ -1,9 +1,9 @@
-#imgsearch {
+#image-search {
     position: absolute; 
     right: 130px;
 }
 
-#advsearch {
+#advanced-search {
     position: absolute; 
     right: 10px;
 }
@@ -20,7 +20,7 @@
     width: 600px;
 }
 
-#img {
+#image {
     height: 92; 
     padding-top: 109px; 
     width: 272;
