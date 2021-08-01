@@ -33,4 +33,5 @@
 - `image-search.html` - image search section file
 - `index.html` - index file
 - `logo.png` - Google logo
+- `styles-advanced.css` - advanced section styling
 - `styles.css` - styling file
