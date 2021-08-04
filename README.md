@@ -1,8 +1,9 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/mmanchev23/search/blob/master/LICENSE)
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/mmanchev23/search)
 
-# **Search** - Harvard's CS50 2020
+# **Search**
 
-## Static site, containing options for Google Search, Google Image Search, and Google Advanced Search. This is the first project for CS50's Web Programming with Python and JavaScript.
+## Project #0 for Harvard's CS50's Web Programming with Python and Javascript
 
 ### **Technologies**
 <ul>
