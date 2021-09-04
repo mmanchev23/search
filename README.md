@@ -3,7 +3,7 @@
 
 # ***Search*** - CS50's Project #0
 
-## Front-end for Google Search, Google Image Search, and Google Advanced Search.
+## Front-end for Google Search, Google Image Search, and Google Advanced Search. Project #0 from CS50's "Web Programming with Python and JavaScript".
 
 ### ***Technologies***
 <ul>
