@@ -4,20 +4,22 @@
         <meta charset="UTF-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <title>Image Search</title>
-        <link rel="stylesheet" href="styles.css"/>
+        <link rel="stylesheet" href="image-search.css"/>
     </head>
     <body>
         <header>
             <a id="home" href="index.html">Google Search</a>
         </header>
-        <div style="text-align: center;">
-            <div id="img">
-                <img id="logo" src="logo.png" alt="google logo"/> <br/>
+        <div id="main-section">
+            <div id="image">
+                <img src="logo.png" alt="google logo"/>
+                <br>
             </div>
             <div>
-                <form id="form" action="https://google.com/search">
-                    <input type="text" id="q" name="q"><br/>
-                    <input type="submit" id="btnK" name="btnK" formaction="http://www.google.com/images?q=your+search+terms" value="Image Search"/>
+                <form action="https://google.com/search/">
+                    <input type="text" id="search-input" name="search-input">
+                    <br>
+                    <input type="submit" id="btn-search" name="btn-search" formaction="http://www.google.com/images?q=your+search+terms/" value="Image Search"/>
                 </form>
             </div>
         </div>

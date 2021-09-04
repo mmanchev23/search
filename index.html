@@ -4,22 +4,24 @@
         <meta charset="UTF-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <title>Google Search</title>
-        <link rel="stylesheet" href="styles.css"/>
+        <link rel="stylesheet" href="index.css"/>
     </head>
     <body>
         <header>
             <a id="image-search" href="image-search.html">Image Search</a>
             <a id="advanced-search" href="advanced-search.html">Advanced Search</a>
         </header>
-        <div style="text-align: center;">
+        <div id="main-section">
             <div id="image">
-                <img id="logo" src="logo.png" alt="google logo"/><br/>
+                <img id="logo" src="logo.png" alt="google logo"/>
+                <br>
             </div>
             <div>
-                <form id="form" action="https://google.com/search">
-                    <input type="text" id="q" name="q"><br/>
-                    <input type="submit" id="btnK" name="btnK" formaction="http://www.google.com/search" value="Google Search"/>
-                    <input type="submit" id="btnI" name="btnI" formaction="http://google.com/search?q=%s&btnI=I%27m+Feeling+Lucky" value="I'm Feeling Lucky"/>
+                <form id="form" action="https://google.com/search/">
+                    <input type="text" id="search-input" name="search-input">
+                    <br>
+                    <input type="submit" id="btn-search" name="btn-search" formaction="http://www.google.com/search/" value="Google Search"/>
+                    <input type="submit" id="btn-lucky" name="btn-lucky" formaction="http://google.com/search?q=%s&btnLucky=I%27m+Feeling+Lucky" value="I'm Feeling Lucky"/>
                 </form>
             </div>
         </div>
