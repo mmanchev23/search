@@ -1,10 +1,9 @@
 [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/mmanchev23/search)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/mmanchev23/search/blob/master/LICENSE)
 
 # ***Search*** - Harvard's CS50's Project #0
 
 ## Front-end for Google Search, Google Image Search and Google Advanced Search. Project #0 from Harvard's CS50's "Web Programming with Python and JavaScript" 2020.
-
-<hr>
 
 ### ***Technologies***
 <ul>
@@ -27,12 +26,8 @@
     </li>
 </ul>
 
-<hr>
-
 ### ***How to start the project locally?***
 - Just open the folder containing the project and double-click on `search.html`
-
-<hr>
 
 ### ***Files & Directories***
 - `css` - css directory
